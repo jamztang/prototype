@@ -1,0 +1,1 @@
+PODS_GC_DFLIPTRANSITIONSTYLESEGUE_OTHER_LDFLAGS = -framework GLKit -framework OpenGLES -framework QuartzCore

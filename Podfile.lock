@@ -1,0 +1,22 @@
+PODS:
+  - Canvas (0.1.1)
+  - DCModalSegue (0.0.2)
+  - GC3DFlipTransitionStyleSegue (1.0.0)
+  - MPFoldTransition (0.0.1)
+  - TPKeyboardAvoiding (1.2.3)
+
+DEPENDENCIES:
+  - Canvas
+  - DCModalSegue
+  - GC3DFlipTransitionStyleSegue
+  - MPFoldTransition
+  - TPKeyboardAvoiding (~> 1.2.3)
+
+SPEC CHECKSUMS:
+  Canvas: f1911025fc9ec9c7339df6e4399c90c87ce6b631
+  DCModalSegue: dbec9bde298bdb92c4d15b2e4a10b6f43bc0977e
+  GC3DFlipTransitionStyleSegue: 0c084926cb3f18ab810a0201cf7c79b62061f41d
+  MPFoldTransition: 65c1a3bcb5c8e5a179621f844e970666d89aa3a8
+  TPKeyboardAvoiding: 17995aaa6db26ac2a9fa8714a86509c5888f0392
+
+COCOAPODS: 0.29.0
